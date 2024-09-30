@@ -1,0 +1,17 @@
+Parameter,H_statistic,p_value,eta_sq,Significance
+l,9182.4,0,0.6558,Significant
+dB,3111.6,0,0.2221,Significant
+r2,1693.4,0,0.1208,Significant
+r1,141.2,2.23E-31,0.0099,Significant
+s,54.4,1.52E-12,0.0037,Significant
+dC,47.5,4.90E-11,0.0032,Significant
+muC,42.9,4.91E-10,0.0029,Significant
+k,11.7,0.003,0.0007,Significant
+wB,3.23,0.199,8.79E-05,Not Significant
+gammaC,3.08,0.215,7.70E-05,Not Significant
+b,2.31,0.315,2.22E-05,Not Significant
+muB,1.32,0.516,-4.83E-05,Not Significant
+wC,0.85,0.653,-8.20E-05,Not Significant
+gammaB,0.76,0.685,-8.89E-05,Not Significant
+K2,0.66,0.719,-9.58E-05,Not Significant
+K1,0.04,0.978,-0.0001,Not Significant

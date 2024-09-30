@@ -1,0 +1,25 @@
+Parameter,Comparison,P-value,Significance
+dB,R vs. PR,0,Significant
+dB,R vs. NR,0,Significant
+dB,PR vs. NR,2.30E-94,Significant
+l,R vs. PR,3.42E-17,Significant
+l,R vs. NR,0,Significant
+l,PR vs. NR,0,Significant
+muC,R vs. PR,0.190,Not Significant
+muC,R vs. NR,8.20E-09,Significant
+muC,PR vs. NR,1.67E-06,Significant
+dC,R vs. PR,0.793,Not Significant
+dC,R vs. NR,2.30E-08,Significant
+dC,PR vs. NR,1.44E-08,Significant
+r1,R vs. PR,7.54E-31,Significant
+r1,R vs. NR,6.44E-07,Significant
+r1,PR vs. NR,1.07E-14,Significant
+r2,R vs. PR,0,Significant
+r2,R vs. NR,5.16E-193,Significant
+r2,PR vs. NR,3.42E-44,Significant
+s,R vs. PR,0.030,Significant
+s,R vs. NR,9.71E-12,Significant
+s,PR vs. NR,8.46E-07,Significant
+k,R vs. PR,0.533,Not Significant
+k,R vs. NR,0.006,Significant
+k,PR vs. NR,0.018,Significant

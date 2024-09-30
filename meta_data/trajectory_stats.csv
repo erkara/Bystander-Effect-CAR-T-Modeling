@@ -1,0 +1,13 @@
+Group,Variable,Mean,Standard Deviation
+Responder,Ts,10.2,6.9
+Responder,Tr,5.9,2.5
+Responder,C,403.1,268.0
+Responder,B,612.8,308.8
+Non-responder,Ts,386.7,303.0
+Non-responder,Tr,270.6,238.5
+Non-responder,C,132.6,243.3
+Non-responder,B,200.0,333.8
+Partial-responder,Ts,13.9,12.0
+Partial-responder,Tr,17.1,8.5
+Partial-responder,C,395.1,265.7
+Partial-responder,B,612.8,317.3

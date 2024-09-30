@@ -1,0 +1,2 @@
+Virtual Cohort-1 :[0.25 × baseline, 1.5 × baseline]--test1
+Virtual Cohort-2 :[0.7 × baseline, 1.3 × baseline]--test2
